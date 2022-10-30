@@ -1,7 +1,7 @@
 # User username and password management mobile application
 
 # Description 
-This project is about the development of a simple username and password management mobile application using the Apache Cordova framework. 
+This project is about the development of a simple username and password management mobile application mainly using the Apache Cordova framework. 
 With this application, user can store their personal authentication details (usernames and passwords) easily. Languages, database and framework such as HTML, CSS, JavaScript, and PHP are used in this project.
 Users are able to do the CRUD process using this app.
 
